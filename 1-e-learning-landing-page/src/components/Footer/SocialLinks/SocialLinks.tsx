@@ -1,7 +1,7 @@
 import './SocialLinks.css';
 import instagram from "../../../assets/Instagram.png"
 import facebook from "../../../assets/Facebook.png"
-import facebook2 from "src/assets/Facebook.png"
+import facebook2 from "@/assets/Facebook.png"
 
 export const SocialLinks = () => {
     console.log(facebook2)
