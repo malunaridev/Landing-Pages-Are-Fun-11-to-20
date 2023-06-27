@@ -1,0 +1,34 @@
+.carousel {
+    display:flex;
+}
+
+.carouselPic {
+    height: 75rem;
+    position: absolute;
+    right: 3rem;
+    top: 16rem;
+}
+
+.carouselNav {
+    width: 4rem;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin-right:2rem;
+}
+
+.navButton1 {
+    width:2rem;
+    height: 2rem;
+    background-color: #5e5ed6;
+}
+
+.navButton2 {
+    width:1.5rem;
+    height: 1.5rem;
+    background-color: #9398f1;
+}

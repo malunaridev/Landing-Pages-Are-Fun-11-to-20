@@ -1,0 +1,8 @@
+.menuAnimation {
+    height: .5rem;
+    background-color: #fff;
+    border-radius: 2rem;
+    display: block;
+    position: absolute;
+    top: 0;
+}

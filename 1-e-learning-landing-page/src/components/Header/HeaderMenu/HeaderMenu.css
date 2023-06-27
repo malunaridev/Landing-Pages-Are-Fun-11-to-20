@@ -1,0 +1,28 @@
+.headerMenu {
+  width: 130rem;
+  height: 8rem;
+  border-radius: 4rem 0 0 4rem;
+  background-image: -moz-linear-gradient(
+    0deg,
+    rgb(96, 96, 215) 0%,
+    rgb(122, 125, 228) 54%,
+    rgb(148, 153, 241) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    0deg,
+    rgb(96, 96, 215) 0%,
+    rgb(122, 125, 228) 54%,
+    rgb(148, 153, 241) 100%
+  );
+  background-image: -ms-linear-gradient(
+    0deg,
+    rgb(96, 96, 215) 0%,
+    rgb(122, 125, 228) 54%,
+    rgb(148, 153, 241) 100%
+  );
+  box-shadow: 0px 11px 46px 0px rgba(50, 75, 121, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+}

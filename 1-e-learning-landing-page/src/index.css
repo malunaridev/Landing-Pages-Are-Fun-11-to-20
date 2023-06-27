@@ -1,0 +1,16 @@
+:root {
+  font-family: "Baloo Paaji 2", cursive;
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  width: 90vw;
+  padding-top: 7rem;
+  padding-left: 7rem;
+  background: url(./assets/background.png);
+  background-size: 100vw 100vh;
+  display: flex;
+  margin: 0;
+}

@@ -1,0 +1,11 @@
+.footer {
+    width: 96.3vw;
+    padding-top: 2.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chatIcon {
+    width: 15rem;
+}
