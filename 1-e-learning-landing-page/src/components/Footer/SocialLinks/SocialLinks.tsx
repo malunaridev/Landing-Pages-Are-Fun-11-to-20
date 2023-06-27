@@ -2,7 +2,7 @@ import './SocialLinks.css';
 import instagram from "../../../assets/Instagram.png"
 import facebook from "../../../assets/Facebook.png"
 import twitter from "../../../assets/Twitter.png"
-import whatsapp from "../../../assets/Whatsapp.png"
+import whatsapp from "../../../assets/WhatsApp.png"
 
 export const SocialLinks = () => {
     return (
