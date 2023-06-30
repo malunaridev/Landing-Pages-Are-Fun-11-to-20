@@ -23,7 +23,7 @@ input {
 .searchInput button {
     width: 5rem;
     height: 2rem;
-    background-image: url(D:\Mallully\MalunariDev\Projetos\Landing-Pages-Are-Fun-11-to-20\1-e-learning-landing-page\src\assets\Search.png);
+    background-image: url(../../../assets/Search.png);
     background-size: contain;
     background-color: #fff ;
     border: 0;
