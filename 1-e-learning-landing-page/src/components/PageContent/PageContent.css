@@ -6,3 +6,10 @@
     padding-top: 9rem;
 }
 
+.carouselPic {
+    height: 75rem;
+    position: absolute;
+    right: 3rem;
+    top: 16rem;
+}
+

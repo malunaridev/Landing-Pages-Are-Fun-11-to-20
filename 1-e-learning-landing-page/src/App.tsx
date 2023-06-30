@@ -11,11 +11,11 @@ function App() {
       <Header/>
       <PageContent>
         <TextContent/>
-        
+        <img className="carouselPic" src="./assets/child.png"/>
       </PageContent>
     <Footer>
       <SocialLinks/>
-      <img className="chatIcon" src="./src/assets/Chat.png"/>
+      <img className="chatIcon" src="./assets/Chat.png"/>
     </Footer>
     </div>
   )
